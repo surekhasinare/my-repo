@@ -1,0 +1,40 @@
+h1{
+    background-color: aqua;
+}
+h2{
+    background-color: blue;
+}
+body{
+    background-color:white;
+}
+h1{
+    color: rgb(206, 74, 74);
+}
+.a{
+    font: size 150px;
+    text-transform: uppercase;
+}
+.b{
+    color: cyan;
+    font-size: 100%;
+}
+.shadow{
+    text-shadow:6px 7px 10px;
+}
+.header{
+    background-color: lightgrey;
+    color: black;
+    font-size: 25px;
+    font-weight: bold;
+     font-style: italic;
+ font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+padding:100px 100px 100px 100px;
+margin: -100px 0px 0px 0px; 
+background-image:url(https://cdn.pixabay.com/photo/2015/04/19/08/32/marguerite-729510__480.jpg)
+
+}
+.c{
+background-image:url(https://thumbs.dreamstime.com/b/autumn-nature-landscape-colorful-forest-autumn-nature-landscape-colorful-forest-morning-sunlight-131400332.jpg) ;
+background-repeat: no-repeat;
+background-size: cover;   
+}
